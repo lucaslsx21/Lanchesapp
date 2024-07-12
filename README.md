@@ -21,4 +21,5 @@
 
 
 # Video de demonstração:
-![video] (https://github.com/lucaslsx21/Lanchesapp/issues/1#issue-2406232082)
+([https://github.com/lucaslsx21/Lanchesapp/issues/1#issue-2406232082](https://github.com/user-attachments/assets/80773e15-3fc7-485e-b8a4-7555e3399254
+))
